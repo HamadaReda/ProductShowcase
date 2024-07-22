@@ -1,4 +1,5 @@
-# React Router V6 App / Shop Pages in React JS 
+# React Router V6 App / Shop Pages in React JS
+
 React Router V6 - Creating Shop in React JS
 
 ## Install Dependencies
@@ -18,3 +19,7 @@ https://youtu.be/atoeEaxtkHw
 WebStylePress
 
 https://www.youtube.com/webstylepress
+
+# ProductShowcase
+
+This is a simple website by react to display post, products and details for each one
